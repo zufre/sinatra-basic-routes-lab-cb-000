@@ -8,7 +8,6 @@ gem 'sinatra'
     gem 'thin'
     gem 'shotgun'
     gem 'pry'
-    gem 'require_all'
     
 group :test do
       gem 'rspec'
