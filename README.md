@@ -30,3 +30,4 @@ You'll want to build the following routes:
 The `name` route should display your "My name is __" in the browser, the `hometown` route should display "My hometown is __", and the `favorite-song` should display "My favorite song is __".
 
 Don't forget to run `rspec` in terminal to test your code.
+<a href='https://learn.co/lessons/sinatra-basic-routes-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
