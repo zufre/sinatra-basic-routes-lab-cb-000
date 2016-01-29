@@ -30,4 +30,4 @@ The `name` route should display your "My name is __" in the browser, the `hometo
 
 Don't forget to run `rspec` in terminal to test your code.
 
-<a href='https://learn.co/lessons/sinatra-basic-routes-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-basic-routes-lab' title='Sinatra Routes Lab'>Sinatra Routes Lab</a> on Learn.co and start learning to code for free.</p>
