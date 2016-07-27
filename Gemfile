@@ -10,7 +10,7 @@ gem 'sinatra'
     gem 'pry'
     
 group :test do
-      gem 'rspec'
-      gem 'capybara'
-      gem 'rack-test'
-    end
+  gem 'rspec'
+  gem 'capybara'
+  gem 'rack-test'
+end
